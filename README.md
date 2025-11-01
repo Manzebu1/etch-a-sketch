@@ -5,6 +5,12 @@ Move your mouse over the grid to draw, create new grids, or clear the board.
 
 ---
 
+## 🎮 Play the Game
+
+👉 **[Play on GitHub Pages](https://manzebu1.github.io/etch-a-sketch/)**  
+
+---
+
 ## ✨ Features
 - Dynamic grid generated with JavaScript  
 - Hover to draw (pixelated trail effect)  
